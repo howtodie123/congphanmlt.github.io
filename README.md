@@ -4,7 +4,7 @@
 - [Hướng dẫn set up](#hướng-dẫn-set-up)
 - [Hướng dẫn tùy chỉnh giao diện và nội dung](#hướng-dẫn-tùy-chỉnh-giao-diện-và-nội-dung)
 ## Sơ lược về website
-(Chờ Hải viết)
+(Chờ Hải viết)xmjkfzbfjkdshfjdhj
 ## Hướng dẫn set up
 ### 1. Cài đặt [Github Desktop](https://desktop.github.com/) hoặc [Git](https://git-scm.com/downloads)
 
