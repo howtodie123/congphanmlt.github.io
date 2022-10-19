@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: https://raw.githubusercontent.com/howtodie123/congphanmlt.github.io/main/33B70D6B-C1DC-4867-AB5B-63940D1DB0EE%201%402x%201%20(1).png
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
