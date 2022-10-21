@@ -18,7 +18,8 @@
 ### 4. Thiết lập và chạy thử
 - Mở repository đã clone trong IDE của bạn.
 - Mở Terminal lên và chạy lệnh `bundle install` và `bundle update`
-- Chạy thử site trên local bằng cách chạy lệnh `bundle exec jekyll serve` . Nếu gặp phải lỗi `/home/argilo/.gem/ruby/3.0.0/gems/jekyll-4.2.0/lib/jekyll/commands/serve/servlet.rb:3:in require': cannot load such file -- webrick (LoadError)` , chạy thêm lệnh `bundle add webrick` rồi thử lại.
+- Chạy thử site trên local bằng cách chạy lệnh `bundle exec jekyll serve` . Nếu gặp phải lỗi `/home/argilo/.gem/ruby/3.0.0/gems/jekyll-4.2.0/lib/jekyll/commands/serve/servlet.rb:3:in require': cannot load such file -- webrick (LoadError)` , chạy thêm lệnh `bundle add webrick` rồi thử lại.Nếu gặp lỗi " GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data." thì thêm "github: [metadata]" vào file "_config.yml"
 
 ## Hướng dẫn tùy chỉnh giao diện và nội dung
+
 
